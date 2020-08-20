@@ -1,3 +1,12 @@
+### simple page with GSAP animations using React hooks
+This is a simple page that I created using Greensock's GSAP.
+I used useEffect and useRef React hooks.
+This is by no mean a comercial product, it was created only for personal use.
+
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
